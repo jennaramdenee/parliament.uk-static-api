@@ -5,6 +5,10 @@
 <https://id.parliament.uk/article1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
 <https://id.parliament.uk/article1> <http://example.com/content/schema/title> "Deadlines for questions" .
 <https://id.parliament.uk/article1> <http://example.com/content/schema/summary> "Find out when you an submit a question  " .
+<https://id.parliament.uk/article1> <http://example.com/content/schema/body> "This is an __overview__ Article " .
+<https://id.parliament.uk/article1> <http://example.com/content/schema/articleType> <http://example.com/content/asdf1234> .
+<http://example.com/content/asdf1234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/content/schema/ArticleType> .
+<http://example.com/content/asdf1234> <http://example.com/content/schema/name> "Overview" .
 <https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasSubcollection> <https://id.parliament.uk/collec22> .
 <https://id.parliament.uk/collec22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
 <https://id.parliament.uk/collec22> <http://example.com/content/schema/collectionName>  "Oral questions" .
@@ -23,9 +27,14 @@
 <https://id.parliament.uk/collec66> <http://example.com/content/schema/collectionDescription> "You can ask the Prime Minister a question in person in the Chamber" .
 <https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasParent> <https://id.parliament.uk/collec44> .
 <https://id.parliament.uk/collec44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
-<https://id.parliament.uk/collec44> <http://example.com/content/schema/collectionName> "Guide to Procedure" .
+<https://id.parliament.uk/collec44> <http://example.com/content/schema/collectionName> "MP's Guide to Procedure" .
 <https://id.parliament.uk/collec44> <http://example.com/content/schema/collectionDescription> "The mother of all Collections" .
 <https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasParent> <https://id.parliament.uk/collec55> .
 <https://id.parliament.uk/collec55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
 <https://id.parliament.uk/collec55> <http://example.com/content/schema/collectionName> "Dummy Parent Collection" .
 <https://id.parliament.uk/collec55> <http://example.com/content/schema/collectionDescription> "The father of all Collections?" .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasRootCollection> <https://id.parliament.uk/collec44> .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasRootCollection> <https://id.parliament.uk/collec77> .
+<https://id.parliament.uk/collec77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
+<https://id.parliament.uk/collec77> <http://example.com/content/schema/collectionName> "Lords Guide to Procedure" .
+<https://id.parliament.uk/collec77> <http://example.com/content/schema/collectionDescription> "Procedural information for the House of Lords" .
