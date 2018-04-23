@@ -1,0 +1,2 @@
+<https://id.parliament.uk/AffirmSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/AffirmSI> <https://id.parliament.uk/schema/procedureName> "Made Affirmative" .
