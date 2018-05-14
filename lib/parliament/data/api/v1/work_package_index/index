@@ -1,0 +1,642 @@
+<https://id.parliament.uk/Ncw8lNIY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/Ncw8lNIY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/Ncw8lNIY> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/nFCm0vQC> .
+<https://id.parliament.uk/Ncw8lNIY> <https://id.parliament.uk/schema/workPackageableThingName> "Offshore Environmental Civil Sanctions Regulations" .
+<https://id.parliament.uk/Ncw8lNIY> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-10-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Ncw8lNIY> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168745> .
+<https://id.parliament.uk/Ncw8lNIY> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/nFCm0vQC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/nFCm0vQC> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/iWugpxMn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/iWugpxMn> <https://id.parliament.uk/schema/procedureName> "Made Affirmative" .
+<https://id.parliament.uk/QbI1sir4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/QbI1sir4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/QbI1sir4> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/bONPJ56c> .
+<https://id.parliament.uk/QbI1sir4> <https://id.parliament.uk/schema/workPackageableThingName> "Electronic Presentment of Instruments (Evidence of Payment and Compensation for Loss) Regulations" .
+<https://id.parliament.uk/QbI1sir4> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with regulation 1" .
+<https://id.parliament.uk/QbI1sir4> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111169063> .
+<https://id.parliament.uk/QbI1sir4> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/hZoxXT3H> .
+<https://id.parliament.uk/QbI1sir4> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/bONPJ56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/bONPJ56c> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/hZoxXT3H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/hZoxXT3H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/hZoxXT3H> <https://id.parliament.uk/schema/businessItemDate> "2018-04-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hZoxXT3H> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/cspzmb6w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/cspzmb6w> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/1AFu55Hs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/1AFu55Hs> <https://id.parliament.uk/schema/houseName> "House of Commons" .
+<https://id.parliament.uk/hZoxXT3H> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/puVMaN7t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/puVMaN7t> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/WkUWUBMx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/House> .
+<https://id.parliament.uk/WkUWUBMx> <https://id.parliament.uk/schema/houseName> "House of Lords" .
+<https://id.parliament.uk/3ThQ2YVH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/3ThQ2YVH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/3ThQ2YVH> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/CpblCHIc> .
+<https://id.parliament.uk/3ThQ2YVH> <https://id.parliament.uk/schema/workPackageableThingName> "Double Taxation Relief and International Tax Enforcement (Cyprus) Order" .
+<https://id.parliament.uk/3ThQ2YVH> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168936> .
+<https://id.parliament.uk/3ThQ2YVH> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/CpblCHIc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/CpblCHIc> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/QJ4tCfuO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/QJ4tCfuO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/QJ4tCfuO> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/4NYyntGP> .
+<https://id.parliament.uk/QJ4tCfuO> <https://id.parliament.uk/schema/workPackageableThingName> "Breaching of Limits on Ticket Sales Regulations" .
+<https://id.parliament.uk/QJ4tCfuO> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with regulation 1" .
+<https://id.parliament.uk/QJ4tCfuO> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168950> .
+<https://id.parliament.uk/QJ4tCfuO> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/3h4GdN9C> .
+<https://id.parliament.uk/QJ4tCfuO> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/4NYyntGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/4NYyntGP> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/3h4GdN9C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/3h4GdN9C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/3h4GdN9C> <https://id.parliament.uk/schema/businessItemDate> "2018-04-26+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3h4GdN9C> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/3h4GdN9C> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/eom841Wn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/eom841Wn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/eom841Wn> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/9hVkb5c6> .
+<https://id.parliament.uk/eom841Wn> <https://id.parliament.uk/schema/workPackageableThingName> "Offshore Combustion Installations (Pollution Prevention and Control) (Amendment) Regulations" .
+<https://id.parliament.uk/eom841Wn> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with regulation 1." .
+<https://id.parliament.uk/eom841Wn> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168783> .
+<https://id.parliament.uk/eom841Wn> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/VoGpv22D> .
+<https://id.parliament.uk/eom841Wn> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/9hVkb5c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/9hVkb5c6> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/VoGpv22D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/VoGpv22D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/VoGpv22D> <https://id.parliament.uk/schema/businessItemDate> "2018-04-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/VoGpv22D> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/VoGpv22D> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/ITuNnxmw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/ITuNnxmw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/ITuNnxmw> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/PsB0pq0l> .
+<https://id.parliament.uk/ITuNnxmw> <https://id.parliament.uk/schema/workPackageableThingName> "Scotland Act 2016 and Wales Act 2017 (Onshore Petroleum) (Consequential Amendments) Regulations" .
+<https://id.parliament.uk/ITuNnxmw> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> " in accordance with regulation 1(2) and (3)." .
+<https://id.parliament.uk/ITuNnxmw> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111169001> .
+<https://id.parliament.uk/ITuNnxmw> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/hnEYzgLf> .
+<https://id.parliament.uk/ITuNnxmw> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/PsB0pq0l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/PsB0pq0l> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/hnEYzgLf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/hnEYzgLf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/hnEYzgLf> <https://id.parliament.uk/schema/businessItemDate> "2018-04-30+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/hnEYzgLf> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/hnEYzgLf> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/cMgRfdGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/cMgRfdGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/cMgRfdGV> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/GBg7bVMf> .
+<https://id.parliament.uk/cMgRfdGV> <https://id.parliament.uk/schema/workPackageableThingName> "Double Taxation Relief and International Tax Enforcement (Uzbekistan) Order" .
+<https://id.parliament.uk/cMgRfdGV> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168516/contents> .
+<https://id.parliament.uk/cMgRfdGV> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/GBg7bVMf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/GBg7bVMf> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/On2R0Zeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/On2R0Zeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/On2R0Zeb> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/40Yq0PnR> .
+<https://id.parliament.uk/On2R0Zeb> <https://id.parliament.uk/schema/workPackageableThingName> "School Information (England) (Amendment) Regulations" .
+<https://id.parliament.uk/On2R0Zeb> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-09-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/On2R0Zeb> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/466/made> .
+<https://id.parliament.uk/On2R0Zeb> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/On2R0Zeb> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "466" .
+<https://id.parliament.uk/40Yq0PnR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/40Yq0PnR> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/5S6p4YsP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/5S6p4YsP> <https://id.parliament.uk/schema/procedureName> "Made Negative" .
+<https://id.parliament.uk/ic82Zn7Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/ic82Zn7Q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/ic82Zn7Q> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/LDPfiVrd> .
+<https://id.parliament.uk/ic82Zn7Q> <https://id.parliament.uk/schema/workPackageableThingName> "Double Taxation Relief (Mauritius) Order" .
+<https://id.parliament.uk/ic82Zn7Q> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168660> .
+<https://id.parliament.uk/ic82Zn7Q> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/LDPfiVrd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/LDPfiVrd> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/daySypEn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/daySypEn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/daySypEn> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/5wUN28za> .
+<https://id.parliament.uk/daySypEn> <https://id.parliament.uk/schema/workPackageableThingName> "Public Service Vehicles (Registration of Local Services) (Amendment) (England) Regulations" .
+<https://id.parliament.uk/daySypEn> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-04-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/daySypEn> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/439/made> .
+<https://id.parliament.uk/daySypEn> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/daySypEn> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "439" .
+<https://id.parliament.uk/5wUN28za> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/5wUN28za> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/1fStCnaK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/1fStCnaK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/1fStCnaK> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/ku4HUUqp> .
+<https://id.parliament.uk/1fStCnaK> <https://id.parliament.uk/schema/workPackageableThingName> "Cash Ratio Deposits (Value Bands and Ratios) Order" .
+<https://id.parliament.uk/1fStCnaK> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-06-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1fStCnaK> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168523> .
+<https://id.parliament.uk/1fStCnaK> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/ku4HUUqp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/ku4HUUqp> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/sr0DtjH3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/sr0DtjH3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/sr0DtjH3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/IgKj9PsJ> .
+<https://id.parliament.uk/sr0DtjH3> <https://id.parliament.uk/schema/workPackageableThingName> "Prison and Young Offender Institution (Amendment) Rules" .
+<https://id.parliament.uk/sr0DtjH3> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sr0DtjH3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/549/made> .
+<https://id.parliament.uk/sr0DtjH3> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/sr0DtjH3> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "549" .
+<https://id.parliament.uk/IgKj9PsJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/IgKj9PsJ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/PXqIeKTO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/PXqIeKTO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/PXqIeKTO> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/x2ajv9bt> .
+<https://id.parliament.uk/PXqIeKTO> <https://id.parliament.uk/schema/workPackageableThingName> "Terrorism Act 2000 (Enforcement in Different Parts of the United Kingdom) Order" .
+<https://id.parliament.uk/PXqIeKTO> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-06-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PXqIeKTO> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/521/made> .
+<https://id.parliament.uk/PXqIeKTO> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/PXqIeKTO> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "521" .
+<https://id.parliament.uk/x2ajv9bt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/x2ajv9bt> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/YFkBxYkE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/YFkBxYkE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/YFkBxYkE> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/IHy5RkQv> .
+<https://id.parliament.uk/YFkBxYkE> <https://id.parliament.uk/schema/workPackageableThingName> "Customs (Contravention of a Relevant Rule) (Amendment) Regulations" .
+<https://id.parliament.uk/YFkBxYkE> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/YFkBxYkE> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/483/made> .
+<https://id.parliament.uk/YFkBxYkE> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/YFkBxYkE> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "483" .
+<https://id.parliament.uk/IHy5RkQv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/IHy5RkQv> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/ZLKsulpG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/ZLKsulpG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/ZLKsulpG> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/ZPnjO6rr> .
+<https://id.parliament.uk/ZLKsulpG> <https://id.parliament.uk/schema/workPackageableThingName> "Plant Health etc. (Fees) (England) (Amendment) Regulations" .
+<https://id.parliament.uk/ZLKsulpG> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ZLKsulpG> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/510/made> .
+<https://id.parliament.uk/ZLKsulpG> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/ZLKsulpG> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "510" .
+<https://id.parliament.uk/ZPnjO6rr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/ZPnjO6rr> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/1Gkk6Ur1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/1Gkk6Ur1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/1Gkk6Ur1> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/TzBEHsaI> .
+<https://id.parliament.uk/1Gkk6Ur1> <https://id.parliament.uk/schema/workPackageableThingName> "Registration (Entries of Overseas Births and Deaths) (Amendment) Order" .
+<https://id.parliament.uk/1Gkk6Ur1> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/1Gkk6Ur1> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/522/made> .
+<https://id.parliament.uk/1Gkk6Ur1> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/1Gkk6Ur1> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "522" .
+<https://id.parliament.uk/TzBEHsaI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/TzBEHsaI> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/0VJbg1Pa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/0VJbg1Pa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/0VJbg1Pa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/auOf4Epa> .
+<https://id.parliament.uk/0VJbg1Pa> <https://id.parliament.uk/schema/workPackageableThingName> "Capital Allowances (Designated Assisted Areas and Amendment) Order" .
+<https://id.parliament.uk/0VJbg1Pa> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/0VJbg1Pa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/485/made> .
+<https://id.parliament.uk/0VJbg1Pa> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/0VJbg1Pa> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "485" .
+<https://id.parliament.uk/auOf4Epa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/auOf4Epa> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/TeRqR0Mi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/TeRqR0Mi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/TeRqR0Mi> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/zDCC2f2J> .
+<https://id.parliament.uk/TeRqR0Mi> <https://id.parliament.uk/schema/workPackageableThingName> "Export (Penalty) (Amendment) Regulations" .
+<https://id.parliament.uk/TeRqR0Mi> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/TeRqR0Mi> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/507/contents/made> .
+<https://id.parliament.uk/TeRqR0Mi> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/TeRqR0Mi> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "507" .
+<https://id.parliament.uk/zDCC2f2J> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/zDCC2f2J> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/HERQCH3M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/HERQCH3M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/HERQCH3M> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/glnf7Egf> .
+<https://id.parliament.uk/HERQCH3M> <https://id.parliament.uk/schema/workPackageableThingName> "Bathing Water (Amendment) (England) Regulations" .
+<https://id.parliament.uk/HERQCH3M> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/HERQCH3M> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/527/made> .
+<https://id.parliament.uk/HERQCH3M> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/HERQCH3M> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "527" .
+<https://id.parliament.uk/glnf7Egf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/glnf7Egf> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/2s720IpI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/2s720IpI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/2s720IpI> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/AqPi1zq5> .
+<https://id.parliament.uk/2s720IpI> <https://id.parliament.uk/schema/workPackageableThingName> "Tribunal Procedure (Amendment) Rules" .
+<https://id.parliament.uk/2s720IpI> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with article 1." .
+<https://id.parliament.uk/2s720IpI> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/511/made> .
+<https://id.parliament.uk/2s720IpI> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/2s720IpI> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "511" .
+<https://id.parliament.uk/AqPi1zq5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/AqPi1zq5> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/WSBR9sBz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/WSBR9sBz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/WSBR9sBz> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/7qN3AkCI> .
+<https://id.parliament.uk/WSBR9sBz> <https://id.parliament.uk/schema/workPackageableThingName> "Torbay (Electoral Changes) Order" .
+<https://id.parliament.uk/WSBR9sBz> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with article 1(2) and (3)" .
+<https://id.parliament.uk/WSBR9sBz> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168967> .
+<https://id.parliament.uk/7qN3AkCI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/7qN3AkCI> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/h9lWSPf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/h9lWSPf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/h9lWSPf3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/mNBN1PFY> .
+<https://id.parliament.uk/h9lWSPf3> <https://id.parliament.uk/schema/workPackageableThingName> "Franchising Schemes (Service Permits) (England) Regulations" .
+<https://id.parliament.uk/h9lWSPf3> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-04-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/h9lWSPf3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/423/made> .
+<https://id.parliament.uk/h9lWSPf3> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/h9lWSPf3> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "423" .
+<https://id.parliament.uk/mNBN1PFY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/mNBN1PFY> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/VIqyNL58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/VIqyNL58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/VIqyNL58> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/zlDxL3xS> .
+<https://id.parliament.uk/VIqyNL58> <https://id.parliament.uk/schema/workPackageableThingName> "Restriction on the Preparation of Adoption Reports (Amendment) Regulations" .
+<https://id.parliament.uk/VIqyNL58> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "on the day after the day on which it is made" .
+<https://id.parliament.uk/VIqyNL58> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168486/contents> .
+<https://id.parliament.uk/VIqyNL58> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/zlDxL3xS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/zlDxL3xS> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/xic2yu5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/xic2yu5i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/EgDK23iB> .
+<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/workPackageableThingName> "Civil Enforcement of Traffic Contraventions (Consequential Amendments) (England) Regulations" .
+<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/488/made> .
+<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/xic2yu5i> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "488" .
+<https://id.parliament.uk/EgDK23iB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/EgDK23iB> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/skINOtww> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/skINOtww> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/skINOtww> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/WJAcxj4t> .
+<https://id.parliament.uk/skINOtww> <https://id.parliament.uk/schema/workPackageableThingName> "Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order" .
+<https://id.parliament.uk/skINOtww> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> " in accordance with article 1(2)" .
+<https://id.parliament.uk/skINOtww> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/546/made> .
+<https://id.parliament.uk/skINOtww> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/skINOtww> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "546" .
+<https://id.parliament.uk/WJAcxj4t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/WJAcxj4t> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/i9hQEgyv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/i9hQEgyv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/i9hQEgyv> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/QXHttLOh> .
+<https://id.parliament.uk/i9hQEgyv> <https://id.parliament.uk/schema/workPackageableThingName> "Package Travel and Linked Travel Arrangements Regulations" .
+<https://id.parliament.uk/i9hQEgyv> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-07-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/i9hQEgyv> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168479/contents> .
+<https://id.parliament.uk/i9hQEgyv> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/QXHttLOh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/QXHttLOh> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/5urR0FTa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/5urR0FTa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/5urR0FTa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/BBNF0hzl> .
+<https://id.parliament.uk/5urR0FTa> <https://id.parliament.uk/schema/workPackageableThingName> "Local Land Charges Fees (England) Rules" .
+<https://id.parliament.uk/5urR0FTa> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5urR0FTa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/489/made> .
+<https://id.parliament.uk/5urR0FTa> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/5urR0FTa> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "489" .
+<https://id.parliament.uk/BBNF0hzl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/BBNF0hzl> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/3dCcAgQQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/3dCcAgQQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/3dCcAgQQ> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/EAbQJgQ2> .
+<https://id.parliament.uk/3dCcAgQQ> <https://id.parliament.uk/schema/workPackageableThingName> "Public Service (Civil Servants and Others) Pensions (Amendment) Regulations" .
+<https://id.parliament.uk/3dCcAgQQ> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3dCcAgQQ> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/537/made> .
+<https://id.parliament.uk/3dCcAgQQ> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/3dCcAgQQ> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "537" .
+<https://id.parliament.uk/EAbQJgQ2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/EAbQJgQ2> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/AaXxxzda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/AaXxxzda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/AaXxxzda> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/KGrfWbku> .
+<https://id.parliament.uk/AaXxxzda> <https://id.parliament.uk/schema/workPackageableThingName> "Public Service Vehicles (Registration of Local Services) (Franchising Schemes Transitional Provisions and Amendments) (England) Regulations" .
+<https://id.parliament.uk/AaXxxzda> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-04-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/AaXxxzda> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/406/made> .
+<https://id.parliament.uk/AaXxxzda> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/AaXxxzda> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "406" .
+<https://id.parliament.uk/KGrfWbku> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/KGrfWbku> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/wYTsSrb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/wYTsSrb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/wYTsSrb8> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/TmzKn0kS> .
+<https://id.parliament.uk/wYTsSrb8> <https://id.parliament.uk/schema/workPackageableThingName> "Parole Board (Amendment) Rules" .
+<https://id.parliament.uk/wYTsSrb8> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/wYTsSrb8> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/541/made> .
+<https://id.parliament.uk/wYTsSrb8> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/wYTsSrb8> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "541" .
+<https://id.parliament.uk/TmzKn0kS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/TmzKn0kS> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/VKXlOGWR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/VKXlOGWR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/VKXlOGWR> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/5k5FMnCU> .
+<https://id.parliament.uk/VKXlOGWR> <https://id.parliament.uk/schema/workPackageableThingName> "Children's Homes (England) (Amendment) Regulations" .
+<https://id.parliament.uk/VKXlOGWR> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/VKXlOGWR> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/540/contents/made> .
+<https://id.parliament.uk/VKXlOGWR> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/VKXlOGWR> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "540" .
+<https://id.parliament.uk/5k5FMnCU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/5k5FMnCU> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/oVz6K36e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/oVz6K36e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/oVz6K36e> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/FyTTgNJj> .
+<https://id.parliament.uk/oVz6K36e> <https://id.parliament.uk/schema/workPackageableThingName> "Special Restrictions on Adoptions from Abroad (Ethiopia) Order" .
+<https://id.parliament.uk/oVz6K36e> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/oVz6K36e> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/517/contents/made> .
+<https://id.parliament.uk/oVz6K36e> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/oVz6K36e> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "517" .
+<https://id.parliament.uk/FyTTgNJj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/FyTTgNJj> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/z0dWm7t5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/z0dWm7t5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/z0dWm7t5> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/vJoUN8Af> .
+<https://id.parliament.uk/z0dWm7t5> <https://id.parliament.uk/schema/workPackageableThingName> "International Tax Compliance (Amendment) Regulations" .
+<https://id.parliament.uk/z0dWm7t5> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-09+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/z0dWm7t5> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/490/made> .
+<https://id.parliament.uk/z0dWm7t5> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/z0dWm7t5> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "490" .
+<https://id.parliament.uk/vJoUN8Af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/vJoUN8Af> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/9b1E1riL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/9b1E1riL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/9b1E1riL> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/XHXSteTL> .
+<https://id.parliament.uk/9b1E1riL> <https://id.parliament.uk/schema/workPackageableThingName> "Burma (European Union Financial Sanctions) Regulations" .
+<https://id.parliament.uk/9b1E1riL> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/9b1E1riL> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/539/made> .
+<https://id.parliament.uk/9b1E1riL> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/9b1E1riL> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "539" .
+<https://id.parliament.uk/XHXSteTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/XHXSteTL> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/PVdYuoaE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/PVdYuoaE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/PVdYuoaE> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/COawVpzg> .
+<https://id.parliament.uk/PVdYuoaE> <https://id.parliament.uk/schema/workPackageableThingName> "Transfer of Functions (Digital Government) Order" .
+<https://id.parliament.uk/PVdYuoaE> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-18+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PVdYuoaE> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/526/made> .
+<https://id.parliament.uk/PVdYuoaE> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/PVdYuoaE> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "526" .
+<https://id.parliament.uk/COawVpzg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/COawVpzg> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/C2rRbqeQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/C2rRbqeQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/C2rRbqeQ> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/UsdZhECl> .
+<https://id.parliament.uk/C2rRbqeQ> <https://id.parliament.uk/schema/workPackageableThingName> "Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) Regulations" .
+<https://id.parliament.uk/C2rRbqeQ> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/C2rRbqeQ> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/482/made> .
+<https://id.parliament.uk/C2rRbqeQ> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/C2rRbqeQ> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "482" .
+<https://id.parliament.uk/UsdZhECl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/UsdZhECl> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/3dAYwLoB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/3dAYwLoB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/3dAYwLoB> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/DRTwwjtS> .
+<https://id.parliament.uk/3dAYwLoB> <https://id.parliament.uk/schema/workPackageableThingName> "Poisons Act 1972 (Explosives Precursors) (Amendment) Regulations" .
+<https://id.parliament.uk/3dAYwLoB> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with regulation 1(2) to (4)" .
+<https://id.parliament.uk/3dAYwLoB> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/451/made> .
+<https://id.parliament.uk/3dAYwLoB> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/3dAYwLoB> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "451" .
+<https://id.parliament.uk/DRTwwjtS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/DRTwwjtS> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/WlESBxsE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/WlESBxsE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/WlESBxsE> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/ahqEmFXW> .
+<https://id.parliament.uk/WlESBxsE> <https://id.parliament.uk/schema/workPackageableThingName> "Double Taxation Relief and International Tax Enforcement (Ukraine) Order" .
+<https://id.parliament.uk/WlESBxsE> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168684> .
+<https://id.parliament.uk/WlESBxsE> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/ahqEmFXW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/ahqEmFXW> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/ldwfXHJ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/ldwfXHJ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/ldwfXHJ3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/g1Ehf7Io> .
+<https://id.parliament.uk/ldwfXHJ3> <https://id.parliament.uk/schema/workPackageableThingName> "Network and Information Systems Regulations" .
+<https://id.parliament.uk/ldwfXHJ3> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-10+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ldwfXHJ3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <https://www.legislation.gov.uk/uksi/2018/506/made> .
+<https://id.parliament.uk/ldwfXHJ3> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/ldwfXHJ3> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "506" .
+<https://id.parliament.uk/g1Ehf7Io> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/g1Ehf7Io> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/RRGA1EDF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/RRGA1EDF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/RRGA1EDF> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/96If6gRM> .
+<https://id.parliament.uk/RRGA1EDF> <https://id.parliament.uk/schema/workPackageableThingName> "First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order" .
+<https://id.parliament.uk/RRGA1EDF> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with article 1." .
+<https://id.parliament.uk/RRGA1EDF> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/509/contents/made> .
+<https://id.parliament.uk/RRGA1EDF> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/RRGA1EDF> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "509" .
+<https://id.parliament.uk/96If6gRM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/96If6gRM> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/XnLvIexa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/XnLvIexa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/XnLvIexa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/WmlTLQiJ> .
+<https://id.parliament.uk/XnLvIexa> <https://id.parliament.uk/schema/workPackageableThingName> "Education (Student Support) (Amendment) (No. 3 ) Regulations" .
+<https://id.parliament.uk/XnLvIexa> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/XnLvIexa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/472/made> .
+<https://id.parliament.uk/XnLvIexa> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/XnLvIexa> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "472" .
+<https://id.parliament.uk/WmlTLQiJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/WmlTLQiJ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/Ly5VtVqc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/Ly5VtVqc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/Ly5VtVqc> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/y5Pki10i> .
+<https://id.parliament.uk/Ly5VtVqc> <https://id.parliament.uk/schema/workPackageableThingName> "Higher Education (Basic Amount and Higher Amount) (England) (Amendment) Regulations" .
+<https://id.parliament.uk/Ly5VtVqc> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-04-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Ly5VtVqc> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/465/made> .
+<https://id.parliament.uk/Ly5VtVqc> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/Ly5VtVqc> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "465" .
+<https://id.parliament.uk/y5Pki10i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/y5Pki10i> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/gumIT2oi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/gumIT2oi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/gumIT2oi> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/d8N3UQPs> .
+<https://id.parliament.uk/gumIT2oi> <https://id.parliament.uk/schema/workPackageableThingName> "General Osteopathic Council (Continuing Professional Development) (Amendment) Rules Order of Council" .
+<https://id.parliament.uk/gumIT2oi> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-10-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/gumIT2oi> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/513/made> .
+<https://id.parliament.uk/gumIT2oi> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/gumIT2oi> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "513" .
+<https://id.parliament.uk/d8N3UQPs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/d8N3UQPs> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/Y70OJpm2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/Y70OJpm2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/Y70OJpm2> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/0zyGzme2> .
+<https://id.parliament.uk/Y70OJpm2> <https://id.parliament.uk/schema/workPackageableThingName> "Cheshire West and Chester (Electoral Changes) Order" .
+<https://id.parliament.uk/Y70OJpm2> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with article 1(2) and (3)" .
+<https://id.parliament.uk/Y70OJpm2> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2018/9780111168974> .
+<https://id.parliament.uk/0zyGzme2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/0zyGzme2> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/7zZetzHu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/7zZetzHu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/7zZetzHu> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/EAA6TGiA> .
+<https://id.parliament.uk/7zZetzHu> <https://id.parliament.uk/schema/workPackageableThingName> "Recovery of Costs (Remand to Youth Detention Accommodation) (Amendment No. 2) Regulations" .
+<https://id.parliament.uk/7zZetzHu> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/7zZetzHu> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/498/made> .
+<https://id.parliament.uk/7zZetzHu> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/7zZetzHu> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "498" .
+<https://id.parliament.uk/EAA6TGiA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/EAA6TGiA> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/ADR23Zyx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/ADR23Zyx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/ADR23Zyx> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/EdGVZDEz> .
+<https://id.parliament.uk/ADR23Zyx> <https://id.parliament.uk/schema/workPackageableThingName> "Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland)" .
+<https://id.parliament.uk/ADR23Zyx> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/ADR23Zyx> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/nisr/2018/92/contents/made> .
+<https://id.parliament.uk/ADR23Zyx> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.R. (N.I.)" .
+<https://id.parliament.uk/ADR23Zyx> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "92" .
+<https://id.parliament.uk/EdGVZDEz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/EdGVZDEz> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/k6waZgmJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/k6waZgmJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/k6waZgmJ> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/XDilT5Ce> .
+<https://id.parliament.uk/k6waZgmJ> <https://id.parliament.uk/schema/workPackageableThingName> "Local Government Pension Scheme (Amendment) Regulations" .
+<https://id.parliament.uk/k6waZgmJ> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-14+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/k6waZgmJ> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/493/made> .
+<https://id.parliament.uk/k6waZgmJ> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/k6waZgmJ> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "493" .
+<https://id.parliament.uk/XDilT5Ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/XDilT5Ce> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/fzqK7AZm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/fzqK7AZm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/fzqK7AZm> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/2scZQxKA> .
+<https://id.parliament.uk/fzqK7AZm> <https://id.parliament.uk/schema/workPackageableThingName> "Oil and Gas Authority (Offshore Petroleum) (Retention of Information and Samples) Regulations" .
+<https://id.parliament.uk/fzqK7AZm> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with regulation 1." .
+<https://id.parliament.uk/fzqK7AZm> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/514/made> .
+<https://id.parliament.uk/fzqK7AZm> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/fzqK7AZm> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "514" .
+<https://id.parliament.uk/2scZQxKA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/2scZQxKA> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/X7eLLIAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/X7eLLIAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/X7eLLIAd> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/GZclkfq9> .
+<https://id.parliament.uk/X7eLLIAd> <https://id.parliament.uk/schema/workPackageableThingName> "Insurance Companies (Taxation of Re-insurance Business) Regulations" .
+<https://id.parliament.uk/X7eLLIAd> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-06-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/X7eLLIAd> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/538/made> .
+<https://id.parliament.uk/X7eLLIAd> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/X7eLLIAd> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "538" .
+<https://id.parliament.uk/GZclkfq9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/GZclkfq9> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/5ApCGs6D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/5ApCGs6D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/5ApCGs6D> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/QXsKehqI> .
+<https://id.parliament.uk/5ApCGs6D> <https://id.parliament.uk/schema/workPackageableThingName> "Police Pension Schemes and Additional Voluntary Contributions (Amendment) (England and Wales) Regulations" .
+<https://id.parliament.uk/5ApCGs6D> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-21+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/5ApCGs6D> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/530/contents/made> .
+<https://id.parliament.uk/5ApCGs6D> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/5ApCGs6D> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "530" .
+<https://id.parliament.uk/QXsKehqI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/QXsKehqI> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/PqyD6lfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/PqyD6lfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/PqyD6lfd> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/uBG5MdZZ> .
+<https://id.parliament.uk/PqyD6lfd> <https://id.parliament.uk/schema/workPackageableThingName> "Civil Procedure (Amendment No. 2) Rules" .
+<https://id.parliament.uk/PqyD6lfd> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-05-07+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/PqyD6lfd> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/479/contents/made> .
+<https://id.parliament.uk/PqyD6lfd> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/PqyD6lfd> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "479" .
+<https://id.parliament.uk/uBG5MdZZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/uBG5MdZZ> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/8lYUKjib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/8lYUKjib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/CERw4sxU> .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/workPackageableThingName> "Lobsters and Crawfish (Prohibition of Fishing and Landing) (Amendment) (England) Order 2017 " .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2017-10-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <https://www.legislation.gov.uk/uksi/2017/899/made> .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/YLaWhMnc> .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/8lYUKjib> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "899" .
+<https://id.parliament.uk/CERw4sxU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/CERw4sxU> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/YLaWhMnc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/YLaWhMnc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/YLaWhMnc> <https://id.parliament.uk/schema/businessItemDate> "2017-09-08+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/YLaWhMnc> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/YLaWhMnc> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/cECd49zh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/cECd49zh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/f6HEdGTF> .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/workPackageableThingName> "Mandatory Use of Closed Circuit Television in Slaughterhouses (England) Regulations 2018" .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-11-05+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "Except for the purpose of regulations 1 to 4 and 15 which come into force on 4th May 2018" .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/556/made> .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/JsxVnaWW> .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/cECd49zh> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "556" .
+<https://id.parliament.uk/f6HEdGTF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/f6HEdGTF> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/H5YJQsK2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Procedure> .
+<https://id.parliament.uk/H5YJQsK2> <https://id.parliament.uk/schema/procedureName> "Draft Affirmative" .
+<https://id.parliament.uk/JsxVnaWW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/JsxVnaWW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/JsxVnaWW> <https://id.parliament.uk/schema/businessItemDate> "2018-02-23+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/JsxVnaWW> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/JsxVnaWW> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/WDlhym6A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/WDlhym6A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/F7f4F0bp> .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/workPackageableThingName> "Andrey Lugovoy and Dmitri Kovtun Freezing Order 2018" .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-01-22+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/60/made> .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/X1r7Widq> .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/WDlhym6A> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "60" .
+<https://id.parliament.uk/F7f4F0bp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/F7f4F0bp> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/iWugpxMn> .
+<https://id.parliament.uk/X1r7Widq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/X1r7Widq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemDate> "2018-01-19+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/X1r7Widq> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/No1qmqJ4> .
+<https://id.parliament.uk/No1qmqJ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProcedureStep> .
+<https://id.parliament.uk/No1qmqJ4> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/1AFu55Hs> .
+<https://id.parliament.uk/No1qmqJ4> <https://id.parliament.uk/schema/procedureStepHasHouse> <https://id.parliament.uk/WkUWUBMx> .
+<https://id.parliament.uk/3szZSPu3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/3szZSPu3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/jBwkhAVR> .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/workPackageableThingName> "Help-to-Save Accounts Regulations" .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-01-25+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with Regulation 1" .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/87> .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/sDe3f68p> .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "SI" .
+<https://id.parliament.uk/3szZSPu3> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "87" .
+<https://id.parliament.uk/jBwkhAVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/jBwkhAVR> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/sDe3f68p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/sDe3f68p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/sDe3f68p> <https://id.parliament.uk/schema/businessItemDate> "2017-12-11+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/sDe3f68p> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/FoUx7Oxo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/FoUx7Oxo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/HEvio9nu> .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/workPackageableThingName> "Common Agricultural Policy (Control and Enforcement, Cross-compliance, Scrutiny of Transactions and Appeals) (Amendment) (England) Regulations 2017" .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with regulation 1(1)" .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <https://www.legislation.gov.uk/uksi/2017/655/made> .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/Mu7vWWij> .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "S.I." .
+<https://id.parliament.uk/FoUx7Oxo> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "655" .
+<https://id.parliament.uk/HEvio9nu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/HEvio9nu> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/Mu7vWWij> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/Mu7vWWij> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/Mu7vWWij> <https://id.parliament.uk/schema/businessItemDate> "2017-06-13+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/Mu7vWWij> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/Mu7vWWij> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/puVMaN7t> .
+<https://id.parliament.uk/1bN4sHYa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/1bN4sHYa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/1bN4sHYa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/s1U0JR2P> .
+<https://id.parliament.uk/1bN4sHYa> <https://id.parliament.uk/schema/workPackageableThingName> "Non-Contentious Probate Fees Order 2017" .
+<https://id.parliament.uk/1bN4sHYa> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceNote> "in accordance with article 1" .
+<https://id.parliament.uk/1bN4sHYa> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/ukdsi/2017/9780111154854> .
+<https://id.parliament.uk/1bN4sHYa> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/O6054YFp> .
+<https://id.parliament.uk/1bN4sHYa> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "SI" .
+<https://id.parliament.uk/s1U0JR2P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/s1U0JR2P> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/H5YJQsK2> .
+<https://id.parliament.uk/O6054YFp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/O6054YFp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/O6054YFp> <https://id.parliament.uk/schema/businessItemDate> "2017-02-24+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/O6054YFp> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
+<https://id.parliament.uk/bJgVNka4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackageableThing> .
+<https://id.parliament.uk/bJgVNka4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/StatutoryInstrument> .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackage> <https://id.parliament.uk/yixwrcqc> .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/workPackageableThingName> "Higher Education and Research Act 2017 (Consequential, Transitional, Transitory and Saving Provisions) Regulations 2018" .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/workPackageableThingComingIntoForceDate> "2018-04-01+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/workPackageableThingHasWorkPackageableThingWebLink> <http://www.legislation.gov.uk/uksi/2018/245> .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/layableThingHasLaying> <https://id.parliament.uk/qwsS4yZm> .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/statutoryInstrumentNumberPrefix> "SI" .
+<https://id.parliament.uk/bJgVNka4> <https://id.parliament.uk/schema/statutoryInstrumentNumber> "245" .
+<https://id.parliament.uk/yixwrcqc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackage> .
+<https://id.parliament.uk/yixwrcqc> <https://id.parliament.uk/schema/workPackageHasProcedure> <https://id.parliament.uk/5S6p4YsP> .
+<https://id.parliament.uk/qwsS4yZm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Laying> .
+<https://id.parliament.uk/qwsS4yZm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/BusinessItem> .
+<https://id.parliament.uk/qwsS4yZm> <https://id.parliament.uk/schema/businessItemDate> "2018-02-28+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://id.parliament.uk/qwsS4yZm> <https://id.parliament.uk/schema/businessItemHasProcedureStep> <https://id.parliament.uk/cspzmb6w> .
